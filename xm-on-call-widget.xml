@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2018-12-05 20:59:15">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</application>
+<application_name>xMatters</application_name>
+<application_scope>x_xma_xmatters</application_scope>
+<application_version>5.1.2</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>xMatters: On-call Service Portal Widget</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>53dfa75adbc22300311164d748961982</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-05 20:59:15</sys_created_on>
+<sys_id>90d29908db922300311164d748961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-05 20:59:15</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</application>
+<category>customer</category>
+<comments/>
+<name>sp_page_68d43f9edb822300311164d748961909</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><id>xmatters_on_call</id><internal>false</internal><public>false</public><roles/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-11-30 22:17:41</sys_created_on><sys_id>68d43f9edb822300311164d748961909</sys_id><sys_mod_count>0</sys_mod_count><sys_name>xmatters_on_call</sys_name><sys_package display_value="xMatters" source="x_xma_xmatters">5950d7444f2231000e9fa88ca310c78c</sys_package><sys_policy/><sys_scope display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</sys_scope><sys_update_name>sp_page_68d43f9edb822300311164d748961909</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-11-30 22:17:41</sys_updated_on><title>xMatters On-call - Test Page</title></sp_page><sys_translated_text action="delete_multiple" query="documentkey=68d43f9edb822300311164d748961909"/></record_update>]]></payload>
+<payload_hash>-1591149278</payload_hash>
+<remote_update_set display_value="xMatters: On-call Service Portal Widget">90d29908db922300311164d748961939</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-05 20:59:15</sys_created_on>
+<sys_id>14d29908db922300311164d74896193a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16766b2eee10000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-05 20:59:15</sys_updated_on>
+<table/>
+<target_name>xmatters_on_call</target_name>
+<type>Page</type>
+<update_domain>global</update_domain>
+<update_guid>ecd43f9e8b8223005e929f0388e4250a</update_guid>
+<update_guid_history>ecd43f9e8b8223005e929f0388e4250a:-1591149278</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</application>
+<category>customer</category>
+<comments/>
+<name>sp_instance_24d47b1edbc22300311164d7489619ce</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">a4d47b1edbc22300311164d7489619cc</sp_column><sp_widget display_value="xMatters On-call">68d43f9edb822300311164d748961906</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-11-30 22:17:41</sys_created_on><sys_id>24d47b1edbc22300311164d7489619ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="xMatters" source="x_xma_xmatters">5950d7444f2231000e9fa88ca310c78c</sys_package><sys_policy/><sys_scope display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</sys_scope><sys_update_name>sp_instance_24d47b1edbc22300311164d7489619ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-11-30 22:17:41</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=24d47b1edbc22300311164d7489619ce"/></record_update>]]></payload>
+<payload_hash>-267925339</payload_hash>
+<remote_update_set display_value="xMatters: On-call Service Portal Widget">90d29908db922300311164d748961939</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-05 20:59:15</sys_created_on>
+<sys_id>50d29908db922300311164d74896193a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16766b2ef580000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-05 20:59:15</sys_updated_on>
+<table/>
+<target_name/>
+<type>Instance</type>
+<update_domain>global</update_domain>
+<update_guid>e8d47b1edec22300d99738e803e4aecf</update_guid>
+<update_guid_history>e8d47b1edec22300d99738e803e4aecf:-267925339</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</application>
+<category>customer</category>
+<comments/>
+<name>sp_widget_68d43f9edb822300311164d748961906</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_widget"&gt;&lt;sp_widget action="INSERT_OR_UPDATE"&gt;&lt;category&gt;custom&lt;/category&gt;&lt;client_script&gt;&lt;![CDATA[function($filter) {
+	
+	var c = this;
+	
+	c.groupName = c.options.default_group;
+	
+  var yesterday = new Date();
+  c.today     = new Date();
+  yesterday.setDate( c.today.getDate() - 1 );
+  c.dt = c.today;
+	c.dtFormatted = formatDate( c.dt );
+
+	c.dateOptions = {
+    formatYear: 'yy',
+    minDate: yesterday,
+    startingDay: 1
+  };
+
+  c.openCal = function() {
+    c.calPopup.opened = true;
+  };
+
+  c.calPopup = {
+    opened: false
+  };
+	
+	if( c.data.onCallData ) {
+		c.groupNameSubmitted = c.options.default_group;
+		c.dtFormatted        = formatDate( c.dt );
+		
+		groupData            = c.data.onCallData.data[0];
+		c.data.members       = groupData.members.data;
+	}
+
+	c.getGroups = function( query ) {
+
+		console.log( 'Query: ' + query );
+		return c.server.get( { q: query, action: 'groupSearch' }).then( function( response ){
+
+			return $filter('filter')( response.data.groupResults, query );
+		});
+
+	};
+
+	c.getOnCall = function( groupName ) {
+		c.groupNameSubmitted = groupName;
+		console.log( 'Looking for on-call for ' + groupName + ' at: ' + c.dt.toISOString() );
+		c.server.get( { groupName: groupName, dt: c.dt.toISOString(), action: 'getOnCall' } ).then( function( response ) {
+
+			// The API call retrieves a list of the results,
+			// but we're only sending one, so we'll take the
+			// first. 
+			groupData = response.data.onCallData.data[0];
+			c.data.members   = groupData.members.data;
+
+		});
+
+	}
+	
+  c.dateChange = function() {
+		c.dtFormatted = formatDate( c.dt );
+		// The date changed, so let's go get the new info
+		var groupName = ( c.groupName ? c.groupName : c.options.default_group );
+		if( !groupName ) 
+			return;
+		
+		c.getOnCall( groupName );
+	}
+	
+	function formatDate( date ) {
+		 return "" + (date.getMonth()+1) + "/" + (date.getDate());
+	}
+
+}]]&gt;&lt;/client_script&gt;&lt;controller_as&gt;c&lt;/controller_as&gt;&lt;css&gt;.hline {
+  border: 1px solid #ccc;
+  width: 235px;
+  height: 0px;
+}
+
+&lt;/css&gt;&lt;data_table&gt;sp_instance&lt;/data_table&gt;&lt;demo_data&gt;{ 
+	"data": {
+		"onCallData": {"count":1,"total":1,"data":[{"group":{"id":"c3701e28-487e-4edc-97f6-8332b9d5a04f","targetName":"Database","recipientType":"GROUP","links":{"self":"/api/xm/1/groups/c3701e28-487e-4edc-97f6-8332b9d5a04f"}},"shift":{"id":"5b9c9c22-b9b6-421b-b495-73e7b6da2b21","name":"24x7","links":{"self":"/api/xm/1/groups/c3701e28-487e-4edc-97f6-8332b9d5a04f/shifts/5b9c9c22-b9b6-421b-b495-73e7b6da2b21"}},"members":{"count":7,"total":7,"data":[{"position":1,"delay":0,"escalationType":"NONE","member":{"id":"ea6eaf21-6ff3-4e61-af72-8e6d83ce2d98","targetName":"allie.pumphrey","recipientType":"PERSON","externallyOwned":true,"externalKey":"allie.pumphrey","links":{"self":"/api/xm/1/people/ea6eaf21-6ff3-4e61-af72-8e6d83ce2d98"},"firstName":"Allie","lastName":"Pumphrey","language":"en","timezone":"US/Pacific","webLogin":"allie.pumphrey","site":{"id":"a5dc8b9f-5494-2f0b-611d-4ad66e293646","name":"Default Site","links":{"self":"/api/xm/1/sites/a5dc8b9f-5494-2f0b-611d-4ad66e293646"}},"status":"ACTIVE"}},{"position":2,"delay":0,"escalationType":"NONE","member":{"id":"2e6f8123-d4c5-481f-969f-669ce36de3bf","targetName":"dreich","recipientType":"PERSON","externallyOwned":false,"links":{"self":"/api/xm/1/people/2e6f8123-d4c5-481f-969f-669ce36de3bf"},"firstName":"Daniel","lastName":"Reich","language":"en","timezone":"US/Pacific","webLogin":"dreich","site":{"id":"a5dc8b9f-5494-2f0b-611d-4ad66e293646","name":"Default Site","links":{"self":"/api/xm/1/sites/a5dc8b9f-5494-2f0b-611d-4ad66e293646"}},"status":"ACTIVE"}},{"position":3,"delay":0,"escalationType":"NONE","member":{"id":"9d6f1eb7-bbdc-40d2-90d7-cbfcf80a475a","targetName":"Network","recipientType":"GROUP","status":"ACTIVE","externallyOwned":false,"allowDuplicates":false,"useDefaultDevices":false,"observedByAll":true,"description":"","site":{"id":"a5dc8b9f-5494-2f0b-611d-4ad66e293646","name":"Default Site","links":{"self":"/api/xm/1/sites/a5dc8b9f-5494-2f0b-611d-4ad66e293646"}},"links":{"self":"/api/xm/1/groups/9d6f1eb7-bbdc-40d2-90d7-cbfcf80a475a"}}},{"position":4,"delay":0,"escalationType":"NONE","member":{"id":"114e5039-af8b-4d35-9b08-ae52df0c91b1","name":"Android Phone","accountId":"64471e6d1b6cd6e20b772fa946509115","registrationId":"APA91bFYzYcB4hPDYXJM9Kmm6yGxCyUGYyRJwLJJwge0cSrbpuNyzK-xTzjcG05IKVk75Scd11o1Um-UYjWvDZXmV-QNOo1ysN4HsvLJ_nScFmTiP9znO_7uiH15fVvbBwrWMbIQ5yd2","targetName":"tdepuy|Android Phone","deviceType":"ANDROID_PUSH","description":"Travis' Android Phone","testStatus":"UNTESTED","externallyOwned":false,"defaultDevice":false,"priorityThreshold":"LOW","sequence":2,"delay":0,"owner":{"id":"bad26b14-70ef-be32-33b8-85da989d950e","targetName":"tdepuy","firstName":"Travis","lastName":"Depuy","recipientType":"PERSON","links":{"self":"/api/xm/1/people/bad26b14-70ef-be32-33b8-85da989d950e"}},"links":{"self":"/api/xm/1/devices/114e5039-af8b-4d35-9b08-ae52df0c91b1"},"recipientType":"DEVICE","status":"ACTIVE","provider":{"id":"(x)Matters Google Cloud Messaging"}}},{"position":5,"delay":0,"escalationType":"NONE","member":{"id":"c44a6dc5-170f-40b8-a986-f62635765161","targetName":"My Dynamic Team","recipientType":"DYNAMIC_TEAM","externallyOwned":false,"useEmergencyDevice":false,"links":{"self":"/api/xm/1/dynamic-teams/c44a6dc5-170f-40b8-a986-f62635765161"}}},{"position":6,"delay":5,"escalationType":"NONE","member":{"id":"138da635-8176-40a8-ae91-da8849bf097d","targetName":"barcode","recipientType":"PERSON","externallyOwned":false,"links":{"self":"/api/xm/1/people/138da635-8176-40a8-ae91-da8849bf097d"},"firstName":"barcode","lastName":"user","language":"en","timezone":"US/Pacific","webLogin":"barcode","site":{"id":"a5dc8b9f-5494-2f0b-611d-4ad66e293646","name":"Default Site","links":{"self":"/api/xm/1/sites/a5dc8b9f-5494-2f0b-611d-4ad66e293646"}},"status":"ACTIVE"}},{"position":7,"delay":15,"escalationType":"NONE","member":{"id":"e45ceef8-356f-4318-833d-0c344cb4aace","targetName":"dummy","recipientType":"PERSON","externallyOwned":false,"links":{"self":"/api/xm/1/people/e45ceef8-356f-4318-833d-0c344cb4aace"},"firstName":"dummy","lastName":"dummy","language":"en","timezone":"US/Pacific","webLogin":"dummy","site":{"id":"a5dc8b9f-5494-2f0b-611d-4ad66e293646","name":"Default Site","links":{"self":"/api/xm/1/sites/a5dc8b9f-5494-2f0b-611d-4ad66e293646"}},"status":"ACTIVE"}}],"links":{"self":"/api/xm/1/groups/c3701e28-487e-4edc-97f6-8332b9d5a04f/shifts/5b9c9c22-b9b6-421b-b495-73e7b6da2b21/occurrences/2018-11-30T00:00:00.000Z/members?offset=0&amp;amp;limit=15"}},"start":"2018-11-30T00:00:00Z","end":"2018-12-01T00:00:00Z"}],"links":{"self":"/api/xm/1/on-call?groups=Database&amp;amp;at=2018-11-30T23%3A19%3A25Z&amp;amp;membersPerShift=15&amp;amp;offset=0&amp;amp;limit=100"}}
+	}
+}&lt;/demo_data&gt;&lt;description/&gt;&lt;docs/&gt;&lt;field_list/&gt;&lt;has_preview&gt;true&lt;/has_preview&gt;&lt;id&gt;xmatters_on-call&lt;/id&gt;&lt;internal&gt;false&lt;/internal&gt;&lt;link/&gt;&lt;name&gt;xMatters On-call&lt;/name&gt;&lt;option_schema&gt;[{"name":"default_group","section":"other","default_value":"","label":"Default Group","type":"string"},{"name":"max_members_to_show","section":"other","default_value":"10","label":"Max Members to Show","type":"string"}]&lt;/option_schema&gt;&lt;public&gt;false&lt;/public&gt;&lt;roles/&gt;&lt;script&gt;&lt;![CDATA[(function() {
+	gs.include( 'xMattersDataHelper' );
+
+	var dataHelper = new xMattersDataHelper();
+	var response;
+
+	var membersPerShift = (options.max_members_to_show ? options.max_members_to_show : 10 );
+		
+	
+	data.groupResults = [];
+	if( input &amp;&amp; input.q &amp;&amp; input.action == 'groupSearch' ){
+
+		// Go make an API call for group `q`.
+		response = dataHelper.get('/groups/', { search: input.q });
+		var respData = JSON.parse( response.body );		
+
+		data.groupResults = respData.data.map( function( group ) { return group.targetName } );
+
+	}
+
+	if( input &amp;&amp; input.groupName &amp;&amp; input.action == 'getOnCall'  ){
+		var opts = { 
+			groups: input.groupName, 
+			membersPerShift: membersPerShift, 
+			at: input.dt 
+		};
+		
+		response = dataHelper.get('/on-call/', opts);
+		data.onCallData = JSON.parse( response.body );
+		if( data.onCallData.code ) {
+			gs.error( 'on-call API call failed: ' + JSON.stringify( data.onCallData ) );
+			data.onCallData = {};
+		}
+
+	}
+
+	if( !input &amp;&amp; options.default_group ){
+
+
+		var groupName = options.default_group;
+		response = dataHelper.get('/on-call/', { groups: groupName, membersPerShift: membersPerShift });
+
+		data.onCallData = JSON.parse( response.body );
+		if( data.onCallData.code ) {
+			gs.error( 'on-call API call failed: ' + JSON.stringify( data.onCallData ) );
+			data.onCallData = {};
+		}
+
+	}
+})();]]&gt;&lt;/script&gt;&lt;servicenow&gt;false&lt;/servicenow&gt;&lt;sys_class_name&gt;sp_widget&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-11-30 22:17:41&lt;/sys_created_on&gt;&lt;sys_id&gt;68d43f9edb822300311164d748961906&lt;/sys_id&gt;&lt;sys_mod_count&gt;230&lt;/sys_mod_count&gt;&lt;sys_name&gt;xMatters On-call&lt;/sys_name&gt;&lt;sys_package display_value="xMatters" source="x_xma_xmatters"&gt;5950d7444f2231000e9fa88ca310c78c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="xMatters"&gt;5950d7444f2231000e9fa88ca310c78c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_widget_68d43f9edb822300311164d748961906&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-12-05 20:50:10&lt;/sys_updated_on&gt;&lt;template&gt;&lt;![CDATA[&lt;link rel="stylesheet" type="text/css" href="/styles/retina_icons/retina_icons.css"&gt;
+&lt;div class="panel panel-{{::options.color}} b"&gt;
+  &lt;div class="panel-heading"&gt;
+    &lt;h2 class="h4 panel-title"&gt;${xMatters On-Call}&lt;span ng-show="c.groupNameSubmitted"&gt; for {{c.groupNameSubmitted}} on {{c.dtFormatted}}&lt;/span&gt;&lt;/h2&gt;
+  &lt;/div&gt;
+
+
+
+  &lt;div class="panel-body"&gt; 
+    
+    &lt;!-- Docs: https://angular-ui.github.io/bootstrap/#!#typeahead --&gt;
+    &lt;p class="input-group"&gt;
+
+
+      &lt;input placeholder="Group Name" class="form-control" ng-model="c.groupName"
+             autocomplete="off"
+             uib-typeahead="group for group in c.getGroups($viewValue)"
+             ahead-loading="loadingGroups" 
+             typeahead-no-results="noResults"
+             typeahead-min-length="3"
+             typeahead-on-select="c.getOnCall( $item )"
+             /&gt; 
+
+      &lt;input type="text" class="form-control" 
+             uib-datepicker-popup="{{format}}" 
+             ng-model="c.dt" 
+             is-open="c.calPopup.opened"
+             datepicker-options="c.dateOptions" 
+             ng-required="true"  
+             close-text="Close"
+             popup-placement="right-bottom"
+             ng-show="false"
+             ng-change="c.dateChange()"
+             show-weeks="false"/&gt;
+      &lt;span class="input-group-btn"&gt;
+        &lt;button type="button" class="btn btn-default" ng-click="c.openCal()"&gt;
+          &lt;i class="glyphicon glyphicon-calendar"&gt;&lt;/i&gt;
+        &lt;/button&gt;
+      &lt;/span&gt;
+    &lt;/p&gt;
+    &lt;i ng-show="loadingGroups" class="glyphicon glyphicon-refresh"&gt;&lt;/i&gt;
+    &lt;div ng-show="noResults"&gt;
+      &lt;i class="glyphicon glyphicon-remove"&gt;&lt;/i&gt; No Results Found
+    &lt;/div&gt;
+    
+    &lt;br/&gt;
+    &lt;div ng-repeat="member in c.data.members"&gt;
+      &lt;div ng-if="member.delay&gt;0"&gt;
+        &lt;span class="icon-stop-watch"&gt;&lt;/span&gt; &amp;nbsp;&amp;nbsp;Wait for &lt;strong&gt;{{member.delay}}&lt;/strong&gt; minutes and then escalate
+        &lt;div class="hline"&gt;&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;span class="icon-user"          ng-if="member.member.recipientType=='PERSON'"&gt;&lt;/span&gt;
+      &lt;span class="icon-user-group"    ng-if="member.member.recipientType=='GROUP'"&gt;&lt;/span&gt;
+      &lt;span class="icon-user-group"    ng-if="member.member.recipientType=='DYNAMIC_TEAM'"&gt;&lt;/span&gt;
+      &lt;span class="icon-mobile"        ng-if="member.member.recipientType=='DEVICE' &amp;&amp; member.member.deviceType=='ANDROID_PUSH'"&gt;&lt;/span&gt;
+      &lt;span class="icon-mobile"        ng-if="member.member.recipientType=='DEVICE' &amp;&amp; member.member.deviceType=='APPLE_PUSH'"&gt;&lt;/span&gt;
+      &lt;span class="icon-envelope-open" ng-if="member.member.recipientType=='DEVICE' &amp;&amp; member.member.deviceType=='EMAIL'"&gt;&lt;/span&gt;
+      &lt;span class="icon-phone"         ng-if="member.member.recipientType=='DEVICE' &amp;&amp; member.member.deviceType=='TEXT_PHONE'"&gt;&lt;/span&gt;
+      &lt;span class="icon-phone"         ng-if="member.member.recipientType=='DEVICE' &amp;&amp; member.member.deviceType=='VOICE'"&gt;&lt;/span&gt;
+      &amp;nbsp;&amp;nbsp;
+
+
+      &lt;span ng-if="member.member.recipientType=='PERSON'"&gt;
+        {{member.member.firstName}} {{member.member.lastName}} (&lt;strong&gt;{{member.member.targetName}}&lt;/strong&gt;)
+      &lt;/span&gt;
+      &lt;span ng-if="member.member.recipientType!='PERSON'"&gt;
+        &lt;strong&gt;{{member.member.targetName}}&lt;/strong&gt;
+      &lt;/span&gt;
+
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/template&gt;&lt;/sp_widget&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1266457628</payload_hash>
+<remote_update_set display_value="xMatters: On-call Service Portal Widget">90d29908db922300311164d748961939</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-05 20:59:15</sys_created_on>
+<sys_id>98d29908db922300311164d74896193a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16780229a390000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-05 20:59:15</sys_updated_on>
+<table/>
+<target_name>xMatters On-call</target_name>
+<type>Widget</type>
+<update_domain>global</update_domain>
+<update_guid>dbb0d9049f922300bb2b07101b404a90</update_guid>
+<update_guid_history>dbb0d9049f922300bb2b07101b404a90:-1266457628,09ffc9848b922300ae7115d20b404bf6:-1090055225,475fc1c0a3922300bc39d35af5c5831e:-978810830,13aec104ad922300d27221140032ee5a:-2039062977,214bc94c61522300f64cbb569d56b3a3:116185864,e59a854cca522300d4c05c4387b572c5:189831963,914cbc88d9522300b0c44470b42dfb16:-1708776044,f33c7c88d8522300314f08d90013a9f7:1357271769,3a6bfc880c5223009f4688a84a2a8793:-2074354100,594a3488075223008da550232ead8811:1840426388,002ab8486c522300a221235d5db9ddb7:-813834134,720af0089d522300c4bb683f27101b2a:394725136,d6d97c484d522300311997d126d71ebf:1840426388,3b9978489c522300afaf9bc7dc3e672e:1571175083,e059f008865223001d9225a1ae8e8d1a:268037854,a649f048db522300f4660edec9207c03:12314223,46d8fc08ea5223008a9aaf5e0f7cfd14:-785053593,02c8bc0891522300671ca0719cef071d:-384742886,95a83c08e952230058801feff7a74ca7:2089192624,6388fc84ae522300178538c08c286b6a:982768206,1fa734082c522300e955ba8d7441d90c:-3313440,ee97f008b9522300e54808424c33db13:-1566260045,3737f8c4fd522300709bd0908c7c5a12:689902262,8217fc8420522300e1993a47c0106f39:-2051024399,d1d6f8c4525223008e84988a2d96d080:1744596043,1bc634c46452230059b8631d001cff70:-1188222161,7646fc84f052230090cf0bec30384c46:1266276512,cf1634c44d522300aeb615784158edcb:-244938346,a01634c43b522300ba22b8dc8a86ff43:837674414,d0f5f4c01d5223009f39eeec9104c44e:-1267244002,17b57c8451522300e1f098fdd4cfc508:120162389,4ca5fc84ce522300beb9d2143a42ed32:-1736188076,ea95bc84045223001d8db1c2b5b342dd:-1629535376,876538c080522300b03cf4c19ffceaa2:1111662356,7355fc44e2522300dceb9d09cbe20ff9:-1049459464,824538c02d522300c713112f3300449c:831989219,4c34fc445b5223001d424ce5510ff1f2:1385967309,df00fc80125223005a9e49320442458b:117275458,da3f60c0e45223006c181a469d7a0759:-1727415309,af0fec80ab522300aaced7d463c0ad81:-1635644286,a18e2c406c5223000c85ecce431937a1:1795962440,746e2c400b522300c54266243e43c1c7:-1668216454,2ebde080e752230051323cf988330220:1543933496,7ead60808f522300cecb52712be7a7f3:1470701551,446da8407452230089d377f64b4d0883:-2081843236,3e5b60046d122300f05ade88a5c58ca0:-1893103507,af1ba0883e12230041c4f34721d292c0:-1429122673,8d59a4cc74122300d778fae462547a48:-1441095814,4d77a088c71223007c2c7812dd3dedb9:1341846038,1baf1848ec1223000658a2bfe667d670:516391726,4a151040e212230079ae36f94ef0bf98:2139145802,6bedb753d846230074d695280159e675:1566147392,d7bd7353a34623006c7cc89e817cf72d:-1536545859,325df75f6c062300ad984fce1bcf126c:897402575,46ac7353b24623004ed1e83bac87f1fe:-251567500,af2c33536c462300da04f087302fcb4c:-474529339,b057bfdb4c062300201b665ef3fdbddf:-880647641,35f63bdb0c062300fac7a7ead5cb4285:-354672683,a68673dbb206230062515ead80a387f1:-1873223124,15d57b5f100623002b56dc53afa9cf87:-1630071473,3095f75f25062300d89138972ce03e62:-2065555101,8b843fdbff062300f00a7286fac799af:-827244312,e913fb9b0c062300ef464c7433a2732f:1374227641,4a03ffdbbd062300171ce7fb99fd0cd4:1967514292,01f27bdbc4062300384a6e73e5a9f58b:-1146946382,97e2bfdbb1062300841546bf73e12ed8:1226685786,e5b27b9b5306230056132b03be8a7e82:1848112434,7772f317e7062300c1ce84ccda8974d2:-261445344,d2527bdbf90623004fe5b6d27a29305e:1635077488,70423bdb8906230098bdac586a9e287b:-694530915,e712b7dbf6062300c62bc93b9f3677e3:509937116,b891bb93fa06230090558bfdac5b14cc:1611979238,6b21b35ba50623008720c6da10c5da38:-198528406,6711bb9b9a062300f397354936b0d336:-621110055,dbd0f79bb90623009c981ff6197168a4:484160876,06c0bf1b5c062300d23130776c830be8:1218885678,c4b0bb1b7e062300dbecd423719c76a8:1910810851,eda03757d4062300aa76d8610452e356:-56082806,5890bb1b480623001646f293496ab390:-1932348129,2440379b65062300f67dcf9c24fbd9a9:1834982192,03dfe3d392062300aa9bcc8548e0c524:-2054472331,f84dab1ba5062300ab580604ddc8c886:2063700505,e43dabd34a0623004f97556756e7f4af:-2043811932,e52deb172b062300bedd3b750d8e3470:352085413,bcfcef1764062300972f5fb322cbf521:374568467,2f1763577f0623008229748f8b4e37bb:-1049008687,95f6e7d375062300cc5af72103fcd114:1369031319,ddf6235701062300d40d1b5e9f697060:1158293148,49d6ef1747062300a129fda41fc19b1a:-286597299,a3a6efd30b062300c27970db6d86d866:-1181700289,e2a6eb172d06230079ada44244e65a6a:628237357,caf5e7d3f30623005722e362ef0640a2:1887051308,df846393f9062300919259046c77a2df:-1048952298,f37467133f062300988c8eeb77a65ae6:-812329514,8164631331062300905e098586cf134c:2076938041,e0146f53ee062300c21e8defc6911c80:108040145,13c3eb531b06230045ee1f084baeee08:-1625249020,46a3e31331062300008ac16d368aee0f:972614236,12836fdf05c22300416761a0f95dcab2:994239577,b77367137b06230011669675a0a69cc5:-504114284,0b71671390062300cfd6f2377cd6d89b:-923412108,396127132d062300837e65a92bfc556f:-1984238688,fc516fdf88c22300ce0989b6b9bd18d6:-869238980,f3e067df5fc22300e3321e1f96c5941c:-84138638,bbc02fdfbac223002cd7c5c5a428f9b3:112426245,23b0af5f5fc22300d1b2e29300d23e86:60155276,3080231f65c223001e981480ac3b5dca:-1384390004,f8006f5fd0c22300a7d54ca5ee3139e0:-596256596,35ff9f5f97c22300a0372670f0fe3cbe:-210672396,578b931fd3c22300802856c7f34499f7:236397408,f77b931f5ac22300ecf9c0f3c3a733f0:-1356120665,3b3b131fadc223004c6d6ed7f2cfe785:1493677604,580b17db9ec2230046e3171fd9dc9163:48251360,0c7a9f9b6dc22300fab284ff5c3cafe3:1604820777,f81a9f9bbec22300c9f469409754574b:-982223127,05091f5bdec223009d56af6cef73ea20:955683594,fab89f1b38c22300a6b4a3ea6a01c7a1:-2032140456,a8a8535bfbc22300d65835a057f57c22:495443576,cb78535b6fc22300701658c2ff8ab31b:-1951679287,a978d31b4bc2230029b578c0e83492a9:1843285857,8548175be4c22300e91368484586854f:1308247101,a6d7135b7fc2230069dd12247d9ad076:1795564272,7ca79f1b5fc22300f750f9e4f491472d:1884738890,3a27d7d722c22300519b1d643c673060:1091362799,b89617d34ac22300d9fdac55325005d2:-229263340,0b76d7d72ec22300478ab1f8e5ac156c:1783311129,ef561bd7c7c22300bc48937eb45889ea:1133306868,fb455b17bbc22300bffb7c149b1ab515:1330318958,6125d7d703c2230061e37bba57021f59:-846563328,fc051317ebc2230011e456e1d60e2979:1980459069,b3e45b97d2c223000870b2d090ae1d23:316934497,c1b0d7d32fc22300c72269802fdf15f2:-227699073,a4601b97db822300dfd615e15f5219a8:797074799,fdd17e1fee422300e101bbada806a1bc:1455185627,b6703253958223009a7aea7ea2ebc84a:-1464104303,c3507653ae8223005ae17b7309eeeb05:473368056,c1403e9fbc4223009ba1fab38f897f86:1676282592,963caa9f8d4223004cfc90f8fb29da2e:1405156250,49fb669fa142230018cf32f343b54ca7:1164629322,a1bb2e9b7842230060bbef7732f80981:-1168710914,641b6a5f554223002f5e69f56cc79e5c:-330355565,fffaaa5b6142230062e47b711452b538:1805228615,7b4aea1f7242230098175080b01c790b:1918306824,a2a9eadb73422300bf230e95d7e8f698:263656622,d759aedba3422300aa43c08fe7182d51:-1907021349,39f8ea9be24223000f3660edf6df5ac6:1927357468,0de8e2db90422300726f796c3e3f8bd2:-1173540783,3bcf9ce65c46230024c42e4714596ab4:-646427234,f2af5c267a46230032316194cdee856a:-1237525900,c78f10a6f8462300d8d04d165c4177cb:-1948113591,f21f986671462300f1372f8631108c58:120624413,9ddc186686462300cf33aa771137b8c6:812691387,75cb9866054623003b4963c634b6d750:1498583568,b19b106684462300a4a525c2e7ab7832:-1059995512,577bd466a64623000cfb368543a5cc75:1498583568,a35b9466594623004e5e699d69ff4d25:1228993355,640b90663a462300b3f5ecb75d49a558:2023804537,88fa50662e4623003591275fb3858f91:-88762489,72ca1066dc4623001343199975f1f629:-1915301977,c9aa5c26534623002061f9f7ae318037:-2026557800,178a5c26ae462300da922dc721119128:1488648408,fa7ad02eae062300b74eaed881d2ae5a:195243629,853a5826e946230017c795cf4a8dd28d:485566815,ad15542ea20623001febb9a655529609:1224135452,3f5c4cea5b0623004ea188e5714aa592:1609167993,25eb002e5b06230072af4f7516c22ced:717069532,f7cbc02e6c0623000416b570dc1db4dd:-996836869,39cb0cea7706230061d66112ba2f8a75:1073236113,dccb802e79062300a5e5a6ca7070aaed:-996836869,bcab40aa79062300dd8d0ae6970555dc:1675851333,129b002e21062300b65d22e5dab236e3:1764789072,cd7b0cea4a06230036a69d0f17e7836e:2112143553,395b48ea50062300fb21ee16e7d7d462:-1035643712,634b80aadf0623002e8d114be3d95d0f:-1779419654,cf3b8c6a7b0623008da6972191e1a084:-1568520257,e6fa8c6ad8062300779716c002973824:286387382,0a29c4aa710623003ef899de0c5c8d3b:-278824446,0c1944aa0b0623008c18c160694fa3f8:-991854440,61c880aaf8062300437cbc6e78a9fdde:-1864248202,8db840aa55062300d612d18a0a79f5cd:1914270326,a3588c6aef0623002f900eba344dce1a:-1544351928,8fc7086aca0623008e2ade560ade8e6d:-149046222,c4b7c46a1c0623000967015039bb9911:1347054533,ff57806a64062300e4c1ea0d151fa712:1421952032,123740e64a0623004f808933d6270c1b:1286178624,e2f504e65306230064acc630f668066f:1101595420,eb6444e6ec0623002ff518bb362038c5:-624366545,034484661b062300d9d674d53b3905eb:1898267664,a71440e620062300dab7df011955fafd:-229528506,f90440e6b30623001ef5f2d4a9b4c113:561271994,7c138466bb062300d7e9572facd80291:1364178545,c7228466dd0623002d887534635ca1e4:-862211100,b16184667c0623004f0bb428f52df78b:275423182,d751c426ae062300c7612f639c793dfd:-1346916076,63004ce29f0623001171442ba5a5d571:-1701174748,cc00c426be062300338f37ffd0199af5:-921396477,23cfffd2f70623004cb0516b86d5ae23:1911680032,59bff752920623001bf4627ff5f6fc8c:796986201,5b9ff752d6062300ab8f7e9513f3452b:-1031569479,967f7792340623006aaa29dc4a8b88ad:-748393511,c97f7792a5062300a21b7567a0f714f2:-1031569479,aa9efb529a062300691a176b6af91240:-1132121063,987eff52120623009a5dcf868351b1c6:-430051106,ec3d7f1244062300e009a9ac381955bc:-275904696,f31dbf5238062300e522564694925564:1030555319,bd8c37529706230063b79f19b05dad61:-634034430,5a3c7b52720623001354ec1ffed2ed7b:-896384371,671cf752b10623000c231bd6b67b46b0:-1639065671,eaebb752c60623002f5fa92026050c46:-1983580575,95eb375254062300e95a845bf1a32b3f:-48286548,afcbbf12250623001967361a381b1ce6:-1693508455,3dab3752d90623007409da35ed955b38:787508580,909bf3de2cc2230002a723084e3ed611:-1255745422,d31bfb12fc0623005a354fbdea5be4a5:381291223,c20b7f12c8062300049bb659551ac9a0:-1980282287,74ea7f1eafc2230048ac62a26848a4e5:-1114698697,7bca3b1225062300168891148fb105b3:-199248387,258abfde63c2230037921215a690ff6f:1687120076,f37ab312dd062300a1d915ad5570c483:-656084084,47e9ffde66c2230076b59db24929a97b:292378832,eed9bfdec8c223009d609fd7a1c06f67:862103076,3709b3def8c223007d1f4d547976eb4a:525680884,0ef877de40c22300628043201f71e5b8:-1545286644,bcf877de38c22300b47574ca0e96a160:-1854047446,1ab83f5e63c22300206d1f2268bce7dc:-713265920,f8b8b3defcc2230039ddd74b11aaf543:135071905,bd183f9e8ac223003596a4bb34be0c0b:940280790,e418bb5e2bc22300f24be9f61018b5e1:621478555,a908fb1ee3c22300df7bf7fc6b789f87:2027541747,c2f47bde698223006c652aae020ea2c8:1241004550,e8d43f9e058223000dd11013865c8608:-441987605</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</application>
+<category>customer</category>
+<comments/>
+<name>sp_container_e8d43f9edb822300311164d74896190b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>xMatters On-call - Test Page - Container 1</name><order>1</order><sp_page display_value="xmatters_on_call">68d43f9edb822300311164d748961909</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-11-30 22:17:41</sys_created_on><sys_id>e8d43f9edb822300311164d74896190b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>xMatters On-call - Test Page - Container 1</sys_name><sys_package display_value="xMatters" source="x_xma_xmatters">5950d7444f2231000e9fa88ca310c78c</sys_package><sys_policy/><sys_scope display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</sys_scope><sys_update_name>sp_container_e8d43f9edb822300311164d74896190b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-11-30 22:17:41</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+<payload_hash>-1876846995</payload_hash>
+<remote_update_set display_value="xMatters: On-call Service Portal Widget">90d29908db922300311164d748961939</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-05 20:59:15</sys_created_on>
+<sys_id>9cd29908db922300311164d748961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16766b2ef010000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-05 20:59:15</sys_updated_on>
+<table/>
+<target_name>xMatters On-call - Test Page - Container 1</target_name>
+<type>Container</type>
+<update_domain>global</update_domain>
+<update_guid>e8d47b1e0cc2230053fcb4bc214332c9</update_guid>
+<update_guid_history>e8d47b1e0cc2230053fcb4bc214332c9:-1876846995</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</application>
+<category>customer</category>
+<comments/>
+<name>sp_column_a4d47b1edbc22300311164d7489619cc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size/><size_lg/><size_sm/><size_xs/><sp_row display_value="1">e4d47b1edbc22300311164d7489619ca</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-11-30 22:17:41</sys_created_on><sys_id>a4d47b1edbc22300311164d7489619cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="xMatters" source="x_xma_xmatters">5950d7444f2231000e9fa88ca310c78c</sys_package><sys_policy/><sys_scope display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</sys_scope><sys_update_name>sp_column_a4d47b1edbc22300311164d7489619cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-11-30 22:17:41</sys_updated_on></sp_column></record_update>]]></payload>
+<payload_hash>845715073</payload_hash>
+<remote_update_set display_value="xMatters: On-call Service Portal Widget">90d29908db922300311164d748961939</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-05 20:59:15</sys_created_on>
+<sys_id>d4d29908db922300311164d748961939</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16766b2ef380000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-05 20:59:15</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Column</type>
+<update_domain>global</update_domain>
+<update_guid>28d47b1e8ac223007773179f655a35cd</update_guid>
+<update_guid_history>28d47b1e8ac223007773179f655a35cd:845715073</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</application>
+<category>customer</category>
+<comments/>
+<name>sp_row_e4d47b1edbc22300311164d7489619ca</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="xMatters On-call - Test Page - Container 1">e8d43f9edb822300311164d74896190b</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-11-30 22:17:41</sys_created_on><sys_id>e4d47b1edbc22300311164d7489619ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="xMatters" source="x_xma_xmatters">5950d7444f2231000e9fa88ca310c78c</sys_package><sys_policy/><sys_scope display_value="xMatters">5950d7444f2231000e9fa88ca310c78c</sys_scope><sys_update_name>sp_row_e4d47b1edbc22300311164d7489619ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-11-30 22:17:41</sys_updated_on></sp_row></record_update>]]></payload>
+<payload_hash>952628554</payload_hash>
+<remote_update_set display_value="xMatters: On-call Service Portal Widget">90d29908db922300311164d748961939</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-05 20:59:15</sys_created_on>
+<sys_id>d4d29908db922300311164d74896193a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16766b2ef1d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-05 20:59:15</sys_updated_on>
+<table/>
+<target_name>1</target_name>
+<type>Row</type>
+<update_domain>global</update_domain>
+<update_guid>a8d47b1ed1c223006bf97199cd0e8ecb</update_guid>
+<update_guid_history>a8d47b1ed1c223006bf97199cd0e8ecb:952628554</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
