@@ -5,10 +5,14 @@ ServiceNow's [Service Portal](https://docs.servicenow.com/bundle/london-servicen
   <img src="media/xm-on-call-widget.png">
 </kbd>
 
+---------
 
 <kbd>
-  <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+<a href="https://support.xmatters.com/hc/en-us/community/topics">
+   <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+</a>
 </kbd>
+---------
 
 # Pre-Requisites
 * 5.1.2+ of ServiceNow integration, available in the store [here](https://store.servicenow.com/sn_appstore_store.do#!/store/application/5950d7444f2231000e9fa88ca310c78c)
